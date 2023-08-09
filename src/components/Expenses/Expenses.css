@@ -1,0 +1,24 @@
+.expenses {
+    padding: 1rem;
+    background-color: rgb(31, 31, 31);
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+        
+  }
+
+  p{
+    color:white;
+  }
+
+  h2 {
+    margin-left:42%;
+    width:50%;
+    color:white;
+  }
+
+  h3{
+    position:relative;
+    border-top:1px solid white;
+    margin:40px;
+  }
