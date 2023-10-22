@@ -27,8 +27,7 @@ const Expenses = (props) => {
         <ExpensesList items={filteredExpenses} />
       </Card>
       <footer>
-        <h3></h3>
-        <h2>made by noob people</h2>
+        <h2>made by noob person</h2>
       </footer>
     </div>
   );
